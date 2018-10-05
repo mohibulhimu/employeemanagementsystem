@@ -1,3 +1,3 @@
 # employeemanagementsystem
-add your database first 
+add your database first .
 database name "emp"
