@@ -1,5 +1,14 @@
 ## Employee Management System
 
+### Services 
+
+In this pack you can
+
+- Create a new Employee account<br>
+Delete a Employee account <br>
+Edit a Employee account
+
+
 ### Installation steps 
 Make sure to create a new database and add your database credentials to your 'database' file.
 
@@ -9,4 +18,11 @@ In this pack there is a database file name "emp.sql" . Import that to your datab
 
 ### Creating an Admin 
 
-If you did go ahead with the dummy data, a user should have been created for you with the following login credentials:
+If you did go ahead with the dummy data, an admin should have been created for you with the following login credentials:
+
+> email : admin@mail.com <br>
+password : admin
+
+### Creating Employee
+
+If you did go ahead with the dummy data, a employee should have been created for you .
