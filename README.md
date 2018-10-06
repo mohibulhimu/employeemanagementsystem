@@ -2,11 +2,11 @@
 
 ### Services 
 
-In this pack you can
+In this pack you can 
 
-- Create a new Employee account<br>
-Delete a Employee account <br>
-Edit a Employee account
+- Create a new Employee account along with ( Personal Info, Contact Info & Education Info) <br>
+- Delete a Employee account <br>
+- Edit a Employee account .
 
 
 ### Installation steps 
@@ -26,3 +26,5 @@ password : admin
 ### Creating Employee
 
 If you did go ahead with the dummy data, a employee should have been created for you .
+
+### ## Enjoy the Package & Don't forgot to hit star button  👍 
