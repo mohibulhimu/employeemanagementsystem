@@ -27,4 +27,4 @@ password : admin
 
 If you did go ahead with the dummy data, a employee should have been created for you .
 
-### ## Enjoy the Package & Don't forgot to hit star button  👍 
+### ##Enjoy the Package & Don't forgot to hit Star button  👍 
